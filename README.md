@@ -27,11 +27,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nayemhossainmd2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="nayemhossainmd2" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md-nayem-hossain-nym" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="md-nayem-hossain-nym" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19656841" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="19656841" height="30" width="40" /></a>
-<a href="https://fb.com/nayem1816" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="nayem1816" height="30" width="40" /></a>
-<a href="https://instagram.com/md_nayem_hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="md_nayem_hossain" height="30" width="40" /></a>
+<a href="https://twitter.com/nayemhossainmd2" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" alt="nayemhossainmd2" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/md-nayem-hossain-nym" target="blank"><img align="center" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_200_200/0/1590003577120?e=1628121600&v=beta&t=FX6MjBJCqMaHcCnhIcjmoDM6tx-cTxKOWUECpUMi47E" alt="md-nayem-hossain-nym" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19656841" target="blank"><img align="center" src="https://media-exp1.licdn.com/dms/image/C4E0BAQEooBvMO2kBVg/company-logo_200_200/0/1519880697944?e=1628121600&v=beta&t=4KntGG57xb93ie9TkE03knxh2-C9LNIA3NxuC2__X7Y" alt="19656841" height="30" width="40" /></a>
+<a href="https://fb.com/nayem1816" target="blank"><img align="center" src="https://media-exp1.licdn.com/dms/image/C560BAQFx332BDosXcg/company-logo_200_200/0/1600185685242?e=1628121600&v=beta&t=mVWKhZWMgQ9OP2uQj9QR64FDOGgOks3zwJt-AA7JRlw" alt="nayem1816" height="30" width="40" /></a>
+<a href="https://instagram.com/md_nayem_hossain" target="blank"><img align="center" src="https://media-exp1.licdn.com/dms/image/C510BAQEBW-TswoZ0CA/company-logo_200_200/0/1519910609548?e=1628121600&v=beta&t=AYVp53WSvHJ2NQOyZMzo_Jhq214-LHoIFKEpJXUcHmw" alt="md_nayem_hossain" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
