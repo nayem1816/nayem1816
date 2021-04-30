@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nayem1816" alt="nayem1816" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/nayemhossainmd2" target="blank"><img src="https://img.shields.io/twitter/follow/nayemhossainmd2?logo=twitter&style=for-the-badge" alt="nayemhossainmd2" /></a> </p>
 
 - 🔭 I’m currently working on [Fiver Network](https://fiver-network.web.app/)
 
