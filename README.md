@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with [Super Ride](https://super-ride-dd588.web.app/)
 
-- 👨‍💻 All of my projects are available at [https://nayem1816.github.io/personal-website/](https://nayem1816.github.io/personal-website/)
+- 👨‍💻 All of my projects are available at [https://nayem-portfolio.web.app/](https://nayem-portfolio.web.app/)
 
 - 💬 Ask me about **Angular, Vue js, React Native etc**
 
