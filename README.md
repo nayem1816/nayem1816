@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayem1816&label=Profile%20views&color=0e75b6&style=flat" alt="nayem1816" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nayem1816" alt="nayem1816" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nayem1816&theme=dracula" alt="nayem1816" /></a> </p>
 
 - 🔭 I’m currently working on [TeleDoctor](https://tele-doctor-uu.web.app/)
 
